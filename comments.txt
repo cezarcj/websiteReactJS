@@ -1,0 +1,4 @@
+I have made a website with using React JS. I have made a SPA, responsibility, footer, content with grid list. I also implemented form with adding a responsive image with restrictions, validation in JS and persisting data. On main page I displayed existing data from form in separate lines. After the submitting avatar is displayed on right side of header. I also designed application in a way, to connect with API for storing data and hosted project to GitHub.
+To make website I used React JS, because I wanted to learn React JS and improve my JS skills.
+To navigation I used React-router because it is a lib with navigational components, to persist data in session - React-presist, because it is recommended to data persistance in session.
+Styling offers us to many solution, to better displaying content I think that I could use animations with JQuery.
