@@ -137,35 +137,6 @@ class TextFields extends React.Component {
 		this.setState({image: URL.createObjectURL(evt[0])})
 	}
 
-	/*
-	 <TextField
-	 error
-	 id="standard-error"
-	 label="Error"
-	 defaultValue="Hello World"
-	 className={classes.textField}
-	 margin="normal"
-	 />
-	 <TextField
-	 id="standard-dense"
-	 label="Dense"
-	 className={classNames(classes.textField, classes.dense)}
-	 margin="dense"
-	 />
-	 <TextField
-	 id="standard-number"
-	 label="Number"
-	 value={this.state.age}
-	 onChange={this.handleChange('age')}
-	 type="number"
-	 className={classes.textField}
-	 InputLabelProps={{
-	 shrink: true,
-	 }}
-	 margin="normal"
-	 />*/
-
-
 	render() {
 		const {classes} = this.props;
 		console.log(this.state);

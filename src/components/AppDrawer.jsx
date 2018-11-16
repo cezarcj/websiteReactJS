@@ -61,9 +61,7 @@ const styles = theme => ({
 
 const routes = [
 	{path: "/about", name: "About"}, /*info */
-	/*{*path: "/skills", name: "Skills"},*//*business_center*/
 	{path: "/form", name: "Form"},
-	{path: "/school", name: "School"}, /*school*/
 	{path: "/portfolio", name: "Portfolio"}, /* camera_alt */
 ];
 
