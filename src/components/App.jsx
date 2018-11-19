@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import '../App.css';
 import AppDrawer from "./AppDrawer";
 import Divider from "@material-ui/core/Divider/Divider";
 import Typography from "@material-ui/core/Typography/Typography";
